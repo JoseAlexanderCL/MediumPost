@@ -1,25 +1,43 @@
-# Credit Card 
+# Default of Credit Cards
 
 <img src='credit_card_photo.jpeg' width=700 height=500>
 
-The following dataset is a combination of two datasets: the AirBnb's Boston dataset and the AirBnb's Seattle dataset. I combined the two dataset in order to gain more insight on different regional comparison on both the Boston and Seattle dataset.
+The dataset contains information of Customers Default Payments in Taiwan. It has demographic variables like gender, level education, age, and payment behaviour variables like delay in payments, bill amounts and default (yes or no).
 
 
 # Motivation
+
+The main motivation behind this project is to apply exploratory data analysis techniques with Python over a finance focused application (Default Analysis). 
+
 
 
 
 # File Description
 
 
+Jupyter Notebook:
+Credit_Card_Default_Analysis.ipynb
 
-# Set Up
+README.md:
+Documentation of the project 
 
+Dataset:
+The dataset is available here: https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+
+
+
+# :package: Libraries used:
+`import pandas as pd`<br>
+`import seaborn as sns`<br>
+`from scipy.stats import ttest_ind`<br>
+`import matplotlib.pyplot as plt`<br>
 
 
 # Acknowledgements
 
+Many thanks to I-Cheng Yeh, who uploaded this valuable dataset to UCI Machine Learning Repository.
 
 
 # Results
-
+With the Jupyter Notebook and the blogpost I show how relevant is to apply Exploratory Data Analysis techniques to answer common business questions. It also shows 
