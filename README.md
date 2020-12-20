@@ -40,4 +40,11 @@ Many thanks to I-Cheng Yeh, who uploaded this valuable dataset to UCI Machine Le
 
 
 # Results
-With the Jupyter Notebook and the blogpost I show how relevant is to apply Exploratory Data Analysis techniques to answer common business questions. It also shows 
+With the Jupyter Notebook and the blogpost I show how relevant is to apply Exploratory Data Analysis techniques to answer common business questions. In particular I answered the next questions:
+- Does men have higher default rates compared to women? 
+
+- The default rates are lower for customers with higher level of education?
+
+- The delays in payments from previous months are related to default over next menth?
+
+In this link you cand find the post on Medium: https://medium.com/@josealexyanez/helping-to-control-defaults-with-exploratory-data-analysis-in-python-61a9c439be01
